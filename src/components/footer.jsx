@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
         
         <p className="text-gray-500 text-sm">
-          © {new Date().getFullYear()} Your Name. All Rights Reserved.
+          © {new Date().getFullYear()} Gajjala Vishnu Vardhan Reddy. All Rights Reserved.
         </p>
       </motion.div>
     </footer>
